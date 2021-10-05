@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Rust and JavaScript
 - 🥅 2021 Goals: Learn Rust, JavaScript and React
 - ⚡ Fun fact: I love to swim and play videogames
-- 👧 5'2" of pure sweetness [Shadow](https://github.com/ShadowFaxumu)
+- 👧 5'2" of pure sweetness [♡Shadow♡](https://github.com/ShadowFaxumu)
 
 <div align="center">
   <a href="https://github.com/sayagodev">
